@@ -7,6 +7,7 @@ module ni.edu.uam.orm {
     requires jakarta.persistence;
     requires java.naming;
     requires java.sql;
+    requires org.postgresql.jdbc;
 
     // Abrir los paquetes a JavaFX y Hibernate
     opens ni.edu.uam.orm to javafx.fxml;
