@@ -4,7 +4,7 @@ Sistema de Gestión Académica de escritorio construido con **JavaFX**, **Hibern
 Permite registrar, consultar, modificar, eliminar y filtrar estudiantes (CRUD completo), con validaciones y alertas al usuario.
 
 > Universidad Americana (UAM) · Programación de Aplicaciones de Escritorio · Ingeniería de Sistemas de Información
-> Práctica guiada de laboratorio · 180 minutos · 40 puntos
+> Práctica guiada de laboratorio · 180 minutos
 
 ---
 
