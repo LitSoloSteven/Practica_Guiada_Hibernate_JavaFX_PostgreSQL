@@ -1,9 +1,9 @@
-package ni.edu.uam.orm;
+package ni.edu.uam.orm.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class EstudianteController {
     @FXML
     private Label welcomeText;
 
